@@ -1,3 +1,3 @@
-copy /b humidity1.split + humidity2.split humidity.csv.gz
+copy /b humidity.split.zip1 + humidity.split.zip2 humidity.csv.zip
 
 

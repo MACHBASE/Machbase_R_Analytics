@@ -1,2 +1,2 @@
-cat humidity1.split humidity2.split >humidity.csv.gz
-gunzip humidity.csv.gz
+cat humidity.split.zip1 humidity.split.zip2 >humidity.csv.zip
+unzip humidity.csv.zip
